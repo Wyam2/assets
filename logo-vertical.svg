@@ -15,7 +15,10 @@
    viewBox="0 0 208.89862 86.467216"
    id="svg15"
    sodipodi:docname="logo-vertical.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="E:\Code\Wyam.Collateral\logo-vertical.png"
+   inkscape:export-xdpi="257.52347"
+   inkscape:export-ydpi="257.52347">
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,15 +47,15 @@
      id="namedview17"
      showgrid="false"
      inkscape:zoom="2.2250293"
-     inkscape:cx="-53.92792"
+     inkscape:cx="-121.11805"
      inkscape:cy="-33.947962"
      inkscape:window-x="1912"
      inkscape:window-y="130"
      inkscape:window-maximized="1"
-     inkscape:current-layer="widget" />
+     inkscape:current-layer="svg15" />
   <g
      id="widget"
-     transform="translate(84.292625,39.295794)">
+     transform="matrix(0.89242814,0,0,0.89242814,86.011485,40.461859)">
     <path
        d="m 96.2033,22.5359 -7.4868,-7.4868 c -0.0526,-0.0573 -0.1067,-0.1137 -0.1622,-0.1693 -1.0572,-1.0572 -2.4494,-1.5854 -3.8412,-1.5845 -1.3919,-9e-4 -2.7842,0.5272 -3.8414,1.5845 -0.0556,0.0556 -0.1097,0.112 -0.1623,0.1693 L 69.3849,26.3737 c -2.1128,2.1127 -2.1128,5.5628 0,7.6756 2.1127,2.1127 5.5628,2.1127 7.6755,0 l 7.6526,-7.6526 7.6337,7.6336 c 0.0062,0.0064 0.0125,0.0127 0.0188,0.019 1.0999,1.0999 2.5624,1.6272 4.0099,1.5818 1.3328,-0.0418 2.6529,-0.5691 3.6656,-1.5818 0.006,-0.0063 0.013,-0.0126 0.019,-0.019 l 7.634,-7.6336 7.652,7.6526 c 2.113,2.1127 5.563,2.1127 7.676,0 2.112,-2.1128 2.112,-5.5629 0,-7.6756 L 111.697,15.0491 c -0.052,-0.0573 -0.107,-0.1137 -0.162,-0.1693 -1.057,-1.0572 -2.449,-1.5854 -3.841,-1.5845 -1.392,-9e-4 -2.784,0.5272 -3.842,1.5845 -0.055,0.0556 -0.109,0.112 -0.162,0.1693 z"
        id="path4"
